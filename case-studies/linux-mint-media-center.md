@@ -51,3 +51,15 @@ Aucun résultat de performance, validation globale de sécurité ou fonctionneme
 - [Administration distante RustDesk](rustdesk-linux-mint.md)
 - [Audit et durcissement Linux](../hardening/audit-hardening-worklog.md)
 - [Accueil du laboratoire](../README.md)
+
+---
+
+## Sources et projets externes
+
+- [Kodi — dépôt amont xbmc/xbmc](https://github.com/xbmc/xbmc) et [documentation officielle](https://kodi.wiki/).
+- [Catch-Up TV & More — dépôt du projet](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore).
+- [RustDesk — application](https://github.com/rustdesk/rustdesk) et [documentation](https://rustdesk.com/docs/en/).
+
+Ces liens identifient les auteurs des composants utilisés ou étudiés. Cette étude de cas porte sur leur intégration dans mon environnement personnel.
+
+Références vérifiées le 2 novembre 2026.
