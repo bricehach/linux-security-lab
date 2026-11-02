@@ -36,6 +36,35 @@ Linux constitue donc une **fondation technique de mon orientation cybersécurit�
 
 ---
 
+## Ressources publiées et progression
+
+Ce dépôt constitue le point central de mes travaux Linux, en lien avec mes laboratoires réseau, SOC et mes travaux d'automatisation.
+
+### Déjà publié
+
+- [tmux sur Debian](fundamentals/tmux/) : présentation, commandes de démarrage et cours complet au format Word.
+
+### Rubriques à enrichir
+
+L'arborescence ci-dessous constitue une organisation de travail. La présence d'une rubrique ne signifie pas qu'un guide complet ou un laboratoire validé y est déjà disponible.
+
+Les prochaines publications seront sélectionnées parmi les travaux existants suffisamment complets : maintenance Kali et Parrot, diagnostic, audit avec Lynis et chkrootkit, outils réseau et automatisation Bash. Chaque document devra être relu et son état de vérification indiqué avant publication.
+
+### Format des publications
+
+Chaque guide, script ou laboratoire précise, selon le sujet :
+
+- le problème ou l'objectif ;
+- la distribution, la version et les prérequis ;
+- les étapes et commandes expliquées ;
+- les résultats attendus et, pour un laboratoire réalisé, les observations obtenues ;
+- les contrôles de réussite, les limites et le retour arrière si applicable ;
+- son statut : support documentaire, procédure testée ou laboratoire reproduit.
+
+Les contenus communs sont conservés ici et référencés depuis les dépôts réseau ou SOC pour éviter les copies divergentes.
+
+---
+
 ## Axes de travail
 
 - administration Linux ;
@@ -117,9 +146,9 @@ L'objectif n'est pas d'accumuler des commandes, mais de comprendre **ce qu'elles
 
 ## Distributions utilisées
 
-### Linux généraliste
+### Debian et Linux Mint
 
-Utilisé pour consolider l'administration système et les mécanismes fondamentaux de Linux.
+Environnements de travail et d'apprentissage pour consolider l'administration système et les mécanismes fondamentaux de Linux. Le cours tmux publié est consacré à Debian.
 
 ### Kali Linux
 
@@ -170,6 +199,6 @@ Le but est de démontrer que Linux n'est pas seulement pour moi une plateforme p
 
 ### Fabrice Hacardiaux
 
-**Infrastructure Windows • Cybersécurité / SOC • DFIR • Automatisation**
+**Infrastructure Windows / Linux • Cybersécurité / SOC • DFIR • Automatisation**
 
 [Profil GitHub](https://github.com/bricehach) • [LinkedIn](https://www.linkedin.com/in/fabricehacardiaux)
