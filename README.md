@@ -209,3 +209,23 @@ Le but est de démontrer que Linux n'est pas seulement pour moi une plateforme p
 **Infrastructure Windows / Linux • Cybersécurité / SOC • DFIR • Automatisation**
 
 [Profil GitHub](https://github.com/bricehach) • [LinkedIn](https://www.linkedin.com/in/fabricehacardiaux)
+
+---
+
+## Projets externes et sources officielles
+
+Mes guides, configurations et retours d'expérience s'appuient sur les projets suivants. Leurs logiciels restent le travail de leurs auteurs et communautés ; mes publications documentent leur utilisation et leur intégration.
+
+| Produit / outil | Dépôt amont ou source officielle | Pour approfondir |
+|---|---|---|
+| Kodi | [xbmc/xbmc](https://github.com/xbmc/xbmc) | [Documentation Kodi](https://kodi.wiki/) |
+| Catch-Up TV & More | [plugin.video.catchuptvandmore](https://github.com/Catch-up-TV-and-More/plugin.video.catchuptvandmore) | Documentation et signalements dans le dépôt |
+| RustDesk — application | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | [Documentation RustDesk](https://rustdesk.com/docs/en/) |
+| RustDesk — serveur OSS | [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) | Référence d'architecture ; aucun déploiement personnel revendiqué ici |
+| Lynis | [CISOfy/lynis](https://github.com/CISOfy/lynis) | [Documentation CISOfy](https://cisofy.com/documentation/lynis/) |
+| LinPEAS — suite PEASS-ng | [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) | README et documentation du projet |
+| chkrootkit | [Site officiel et accès aux sources](https://www.chkrootkit.org/) | Source amont retenue plutôt qu'un miroir GitHub non vérifié |
+
+Liens vérifiés le **2 novembre 2026**. Les références amont permettent de consulter le code, la documentation et les évolutions ; elles ne certifient pas les résultats des laboratoires présentés ici.
+
+Merci aux auteurs, mainteneurs et contributeurs de ces projets pour leurs logiciels et leur documentation.
