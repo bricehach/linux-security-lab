@@ -57,3 +57,19 @@ Les priorités sont les scripts originaux d'audit UFW et de configuration DNS, p
 - [Poste multimédia Linux Mint](../case-studies/linux-mint-media-center.md)
 - [RustDesk sous Linux Mint](../case-studies/rustdesk-linux-mint.md)
 - [Accueil du laboratoire](../README.md)
+
+---
+
+## Sources et projets externes
+
+| Outil | Source amont |
+|---|---|
+| Lynis | [CISOfy/lynis](https://github.com/CISOfy/lynis) et [documentation CISOfy](https://cisofy.com/documentation/lynis/) |
+| LinPEAS | [Suite PEASS-ng](https://github.com/peass-ng/PEASS-ng) |
+| chkrootkit | [Site officiel, documentation et sources](https://www.chkrootkit.org/) |
+
+Les outils appartiennent à leurs projets respectifs. Leur référencement permet d'approfondir la lecture des guides et de retrouver les sources ; il ne constitue pas un rapport d'exécution.
+
+Merci aux auteurs et contributeurs pour ces ressources.
+
+Références vérifiées le 2 novembre 2026.
