@@ -56,3 +56,15 @@ Une version reproductible devra préciser :
 Aucun auto-hébergement de serveur RustDesk ni validation globale de sécurité n'est présenté comme réalisé.
 
 [Retour à l'accueil](../README.md)
+
+---
+
+## Sources et projets externes
+
+- [RustDesk — dépôt de l'application](https://github.com/rustdesk/rustdesk).
+- [Documentation officielle RustDesk](https://rustdesk.com/docs/en/).
+- [RustDesk Server OSS — dépôt serveur](https://github.com/rustdesk/rustdesk-server) : référence pour comprendre l'architecture, sans revendiquer ici un déploiement personnel de serveur.
+
+Le logiciel et sa documentation sont le travail du projet RustDesk et de ses contributeurs ; cette page documente mon travail d'intégration.
+
+Références vérifiées le 2 novembre 2026.
