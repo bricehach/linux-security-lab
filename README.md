@@ -43,6 +43,11 @@ Ce dépôt constitue le point central de mes travaux Linux, en lien avec mes lab
 ### Déjà publié
 
 - [tmux sur Debian](fundamentals/tmux/) : présentation, commandes de démarrage et cours complet au format Word.
+- [Poste multimédia personnalisé Linux Mint / Kodi](case-studies/linux-mint-media-center.md) : besoin, intégration, choix de configuration et état des vérifications.
+- [RustDesk sous Linux Mint](case-studies/rustdesk-linux-mint.md) : installation, service systemd, autostart et observations historiques.
+- [Audit et durcissement Linux](hardening/audit-hardening-worklog.md) : travaux UFW, DNS, Lynis, LinPEAS et chkrootkit, avec état documentaire et méthode de restitution.
+
+Les études de cas sont des synthèses des travaux antérieurs. Leurs limites sont indiquées ; les rapports, scripts originaux et tests manquants seront intégrés progressivement.
 
 ### Rubriques à enrichir
 
@@ -90,6 +95,7 @@ Les contenus communs sont conservés ici et référencés depuis les dépôts r�
 ```text
 linux-security-lab/
 │
+├── case-studies/        # Configurations personnalisées et retours d'expérience
 ├── fundamentals/        # Arborescence, shell, fichiers, commandes
 ├── users-permissions/   # Comptes, groupes, sudo, droits
 ├── processes-services/  # Processus, systemd, services
@@ -170,6 +176,7 @@ Selon les laboratoires, ce dépôt pourra documenter notamment :
 - Wireshark ;
 - Netcat ;
 - Lynis ;
+- LinPEAS ;
 - chkrootkit ;
 - audit et hardening ;
 - diagnostic réseau ;
